@@ -14,3 +14,17 @@ border: solid;}
 border: solid;}
 
 .spasing {padding: 20px;}
+
+.langeliai { padding: 20px;
+margin: 20px; 
+float: left;}
+
+.a {background-color: black;
+color: red}
+.s {background-color:red
+	;}
+.q {background-color: grey;}
+.w {background-color: pink;}
+.e {background-color: yellow;}
+.r {background-color: white;}
+.t {background-color: green;}
